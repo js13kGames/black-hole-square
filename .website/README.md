@@ -1,4 +1,6 @@
 ---
+genres:
+  - puzzle
 directors_cut: https://supernapie.com/games/black-hole-square/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
